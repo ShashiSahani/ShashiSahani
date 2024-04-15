@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashisahani" alt="shashisahani" /></a> </p>
 
-- 🌱I'm working on Skills to grow as a ** Full Stack Development**
+- 🌱I'm working on Skills to grow as a **Full Stack Development**
 
 - 💬 Ask me about **ReactJS, Node JS, Express, MongoDB**
 
